@@ -1,3 +1,11 @@
+# blackroad-simple-launch
+
+> BlackRoad Launch — Production SaaS landing page with Stripe payments, webhook handler, promo codes, email templates, and psychology-driven conversion design. Flask + Python.
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — [BlackRoad-OS-Inc](https://github.com/BlackRoad-OS-Inc)
+
+---
+
 <div align="center">
 
 <img src="https://images.blackroad.io/pixel-art/road-logo.png" alt="BlackRoad OS" width="80" />
